@@ -1,3 +1,6 @@
+long_chathealth_lora/
+chathealth_model/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 */**/__pycache__/
